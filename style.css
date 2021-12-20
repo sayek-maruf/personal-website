@@ -35,3 +35,7 @@ section{
   border-radius: 5px;
   font-weight: 700;
 }
+.another-half{
+  width: 30%;
+  float: left;
+}
