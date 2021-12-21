@@ -1,9 +1,9 @@
 h1{
-  font-size: 50px;
+  font-size: 45px;
   color: orange
 }
-h2{
-  font-size: 40px;
+.hname{
+  font-size: 30px;
 }
 img{
   width: 100%;
@@ -25,7 +25,11 @@ img{
 .head{
   background-image: url(img/header-bg.png);
   background-repeat: no-repeat;
+  height: 500px;
 }
 .pix{
   padding: 50px 0px 50px 50px;
+}
+h2{
+  font-size: 40px;
 }
