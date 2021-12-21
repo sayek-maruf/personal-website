@@ -22,3 +22,10 @@ img{
   font-weight: 700;
   border-radius: 6px;
 }
+.head{
+  background-image: url(img/header-bg.png);
+  background-repeat: no-repeat;
+}
+.pix{
+  padding: 50px 0px 50px 50px;
+}
