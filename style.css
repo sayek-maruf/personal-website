@@ -40,3 +40,17 @@ h2{
   background-image: url(img/biography-bg.png);
   height: 500px;
 }
+.img-w{
+  width: 30%;
+  float: left;
+  padding-left: 3%
+}
+.img-s{
+  margin: 100px;
+}
+.work{
+  text-align: center;
+  font-weight: 400;
+  font-size: 30px;
+  background-image: url(img/latest-work-bg.png)
+}
